@@ -54,3 +54,51 @@ Petal: 1, 3, 4, 7
 2 minutes each 
 then 5 minute group discussion: what are you going to look for
 15 minutes: transferrable skills based on these.
+
+###Self Assesment excercise
+Why did you enter the Tech industry?
+Create things.  Better to fail in an expanding market than suceed in a contracting one.  Assuming you are competant you become the person with the experience that everyone is looking for.
+
+What sets you apart from other developers?  Who are you as a developer?
+* Over a billion downloads
+* Designed a part of the MacOS (Apple events, Applescript)
+* Designed a scripting language
+* Designed and delivered a mobile operating system
+* Designed and delivered a VOIP hardware project
+* Founded, funded, developed and successfully sold a startup
+* Language design to implementation.  Company idea to prototype, money raising, hiring, execution and exit strategy.   Middlesoft and construction.  Software guy not afraid of hardware.  
+
+###What about your career is memorable?
+* Apple language design and testing
+* Development environment design and built.
+* Javascript story.  
+* Successful startup Middlesoft
+* Hardware and software projects
+* Set up a custom stone company in India (as part of a decade of property development)
+* Technial
+
+###What are you able to bring in terms of hard & soft skills?
+Technical software/startup leadership
+
+General idea to delivered product:  Mobile operating system to linux system running with GUI on prototype hardware sold to Adobe.
+
+I've founded and successfully sold a startup
+I've 
+
+what will they remember you by?  
+Name
+
+10 second pitch.
+
+I've written software that's had over a billion downloads.
+...designed a part of the Macintosh OS (interprocess communication and scripting languages)
+...founded, developed, and successfully sold a mobile sofware company to Macromedia/Adobe
+I solve problems.
+...I once resolved an inability to find a construction supplier by hopping on a plane to India and forming an export company.
+Recently I augmented my software skills with Dev Bootcamp to bring my software skills back to market sharpness after years in management. See my projects here.
+I like large, open-ended, often ill-defined problems with great potential reward.
+
+
+
+###linked in profile
+Successful Software Entreprenuer, technical  
